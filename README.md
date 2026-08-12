@@ -184,3 +184,65 @@ Student notified at every step
 ---
 
 *Smart Course Changing Portal — Final Year Project*
+
+Project Description
+Smart Course Changing Portal is a web-based information system developed to digitize the student course changing process. The system replaces manual paper-based procedures with an online platform where students can submit course change requests and authorized users can review and approve requests.
+
+Project Objectives
+- To provide an online platform for students to request course changes.
+- To reduce delays associated with manual approval processes.
+- To improve transparency through request status tracking.
+- To maintain organized digital records of course change requests.
+
+Technologies Used
+- PHP
+- MySQL
+- HTML
+- CSS
+- JavaScript
+- XAMPP Server
+
+Main Features
+- Student registration and login
+- Secure user authentication
+- Course change request submission
+- Approval workflow management
+- Request status tracking
+- Database record management
+- User role management
+
+System Users
+ Student
+- Register and login into the system.
+- Submit course change requests.
+- Track approval status.
+
+ HOD
+- Review student requests.
+- Approve or reject course change requests.
+
+ Registrar/Admin
+- Manage final approval processes.
+- Monitor system records.
+
+Installation and Setup Guide
+1. Install XAMPP Server.
+2. Copy the project folder into the XAMPP htdocs directory.
+3. Start Apache and MySQL services.
+4. Open phpMyAdmin.
+5. Import the database file:
+   `smart_course_portal (3).sql`
+6. Open the system through a web browser.
+
+Database
+The project uses MySQL database for storing:
+- User information
+- Course change requests
+- Approval records
+- System data
+
+ Developer
+Gladness Simon Osima
+
+GitHub:
+https://github.com/gladyosima8-tech
